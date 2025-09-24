@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
+*.parquet
+data/
+datasets/
+relatorios/
+baselines/
+
+# Model files
+*.pkl
+*.h5
+*.joblib
+models/
+
+# Logs e outputs
+*.log
+logs/
+tensorboard/
+*_tensorboard/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
